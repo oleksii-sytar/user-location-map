@@ -4,14 +4,11 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "dev": "nodemon ./bin/www",
-    "migrate:up": "db-migrate up"
+    "dev": "nodemon ./bin/www"
   },
   "dependencies": {
     "@faker-js/faker": "^7.6.0",
     "cookie-parser": "~1.4.4",
-    "db-migrate": "^0.11.13",
-    "db-migrate-pg": "^1.2.2",
     "debug": "~2.6.9",
     "dotenv": "^16.0.3",
     "express": "~4.16.1",
