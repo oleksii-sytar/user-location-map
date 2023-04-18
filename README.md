@@ -12,7 +12,7 @@ You will need to have Node.js and npm/yarn installed on your machine.
 
 1. Clone the repository to your local machine:
 
-   git clone https://github.com/yourusername/user-location-map.git
+   git clone https://github.com/oleksii-sytar/user-location-map.git
 
 2. Navigate to the backend folder and install the dependencies:
 
