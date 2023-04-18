@@ -18,7 +18,7 @@ You will need to have Node.js and npm/yarn installed on your machine.
 
    cd backend
    npm install
-   # or
+   or
    yarn install
 
 3. Create a .env file in the backend folder with the following content:
@@ -29,7 +29,7 @@ You will need to have Node.js and npm/yarn installed on your machine.
 
    cd ../client
    npm install
-   # or
+   or
    yarn install
 
 5. Create a .env file in the client folder with the following content:
@@ -41,12 +41,12 @@ You will need to have Node.js and npm/yarn installed on your machine.
 1. To run the backend server, navigate to the backend folder and run:
 
    npm run dev
-   # or
+   or
    yarn dev
 
 2. To run the client application, navigate to the client folder and run:
 
    npm start
-   # or
+   or
    yarn start
 
