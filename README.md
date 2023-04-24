@@ -23,7 +23,7 @@ You will need to have Node.js and npm/yarn installed on your machine.
 
 3. Create a .env file in the backend folder with the following content:
 
-   ```DATABASE_URL=postgres://ddhqadpexjmyqj:bbe5a9eb12e1a76f74e3d730824cb66dc098ad1906337a1057b067eec2bac8d6@ec2-34-226-11-94.compute-1.amazonaws.com:5432/d81p02thcdnsa```
+   ```DATABASE_URL=your-url```
 
 4. Navigate to the client folder and install the dependencies:
 
@@ -34,7 +34,7 @@ You will need to have Node.js and npm/yarn installed on your machine.
 
 5. Create a .env file in the client folder with the following content:
 
-   ```REACT_APP_GOOGLE_MAPS_API_KEY=AIzaSyCW3hwbbDFw3ccn2vpdun5z0T-urE0IB-w```
+   ```REACT_APP_GOOGLE_MAPS_API_KEY=your-key```
 
 ### Run
 
